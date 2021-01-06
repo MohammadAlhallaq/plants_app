@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'constraints.dart';
-import 'screens/home/components/home_screen.dart';
+import 'screens/home/home_screen.dart';
 
 void main() {
   runApp(MyApp());
